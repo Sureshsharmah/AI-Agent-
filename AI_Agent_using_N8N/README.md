@@ -28,10 +28,15 @@ This project showcases a simple yet powerful AI Agent built using **n8n**, a low
 ## 📂 Project Structure
 
 AI_Agent_using_N8N/
+
 ├── README.md
-├── workflow.json # Exported n8n workflow
+
+├── workflow.json 
+
 ├── .gitignore
+
 └── screenshots/
+
 └── workflow_ui.png
 
 ---
@@ -39,17 +44,26 @@ AI_Agent_using_N8N/
 ## 🔁 How to Use
 
 1. Clone this repository:
+
    git clone https://github.com/Sureshsharmah/AI-Agent-.git
+
    cd AI-Agent-
 
+2. Import the workflow.json into your n8n instance.
 
-Import the workflow.json into your n8n instance.
-Configure your credentials for:
-OpenAI
-SerpAPI
-Activate the workflow and start chatting!
+   Configure your credentials for:
+
+   OpenAI
+
+   SerpAPI
+
+   Activate the workflow and start chatting!
+
 
 🧠 About
-Created by Suresh Sharma
-Inspired by the new wave of Agentic AI
-Built with 💖 using n8n
+
+   Created by Suresh Sharma
+
+   Inspired by the new wave of Agentic AI
+
+   Built with 💖 using n8n
